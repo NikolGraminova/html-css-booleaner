@@ -1,4 +1,6 @@
 #logoHeader {
+    margin-top: 0;
+    background-image: url('./pattern.png');
     background-color: #9CD6F4;
     height: 100px;
 }
