@@ -1,4 +1,4 @@
-#myHeader {
+#logoHeader {
     background-color: #9CD6F4;
     height: 100px;
 }
@@ -7,4 +7,20 @@
     text-align: left;
     width: 150px;
     height: 100px;
+}
+
+#firstParagraph {
+    font-size: 12px;
+    color: #808090;
+    margin: 0;
+}
+
+.blue {
+    color: #4EA0FF;
+}
+
+.margin {
+    margin-bottom: 0;
+    padding: 0;
+
 }
