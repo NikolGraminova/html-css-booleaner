@@ -1,8 +1,11 @@
 #logoHeader {
     margin-top: 0;
-    background-image: url('./pattern.png');
+    background-image: url('../img/pattern.png');
     background-color: #9CD6F4;
     height: 100px;
+
+    width: 100%;
+    background-size: 30%;
 }
 
 #logoStyle {
@@ -86,6 +89,5 @@ th {
     line-height: 30px;
     text-align: center;
 
-    justify-content: center;
 
 }
